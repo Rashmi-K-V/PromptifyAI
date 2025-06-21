@@ -76,7 +76,7 @@ Visit these links to set up your AI models:
 
 For stock images (not for training), I have used [Lummi AI](https://www.lummi.ai/) -->
 
-### 6. Model Training Requirements
+### 5. Model Training Requirements
 
 When training your custom model, ensure:
 
@@ -94,7 +94,7 @@ When training your custom model, ensure:
 
 Watch our detailed video tutorial for Stripe integration setup: [Stripe Setup Tutorial](https://www.youtube.com/watch?v=7AQNeii5K7E&t=27960s) -->
 
-### 8. Start Development Server
+### 6. Start Development Server
 
 ```bash
 npm run dev
