@@ -66,7 +66,7 @@ Create a `.env.local` file in the root directory. Check `.env.example` for requi
 4. Set up the database triggers and functions
 5. Make sure to setup the right RLS policies (You can also follow the tutorial video to setup the RLS policies)
 
-### 5. AI Model Links
+<!-- ### 5. AI Model Links
 
 Visit these links to set up your AI models:
 
@@ -74,7 +74,7 @@ Visit these links to set up your AI models:
 - [Flux Dev Model](https://replicate.com/black-forest-labs/flux-dev)
 - [Flux Schnell Model](https://replicate.com/black-forest-labs/flux-schnell)
 
-For stock images (not for training), I have used [Lummi AI](https://www.lummi.ai/)
+For stock images (not for training), I have used [Lummi AI](https://www.lummi.ai/) -->
 
 ### 6. Model Training Requirements
 
