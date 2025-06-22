@@ -41,7 +41,7 @@ Before you begin, ensure you have:
 
 ```bash
 git clone https://github.com/Rashmi-K-V/PromptifyAI.git
-cd promptify-ai
+cd PromptifyAI
 ```
 
 ### 2. Install Dependencies
