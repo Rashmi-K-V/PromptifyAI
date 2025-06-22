@@ -40,8 +40,8 @@ Before you begin, ensure you have:
 ### 1. Clone the Repository
 
 ```bash
-git clone [your-repo-url]
-cd Pictoria-AI-Starter-Code
+git clone https://github.com/Rashmi-K-V/PromptifyAI.git
+cd promptify-ai
 ```
 
 ### 2. Install Dependencies
